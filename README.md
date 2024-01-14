@@ -19,7 +19,7 @@ will require basic git skills.
 
 ## My Information
 
-My name is Xuwei Lin and my GitHub alias is linxuwei.
+My name is Xuwei(Steven) Lin and my GitHub alias is linxuwei.
 
 ## Optional Next Steps
 
